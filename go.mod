@@ -6,6 +6,3 @@ require (
 	github.com/go-anyway/framework-log v1.0.0
 )
 
-replace (
-	github.com/go-anyway/framework-log => ../core/log
-)
